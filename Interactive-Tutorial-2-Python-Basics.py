@@ -96,7 +96,8 @@ x = 1
 
 # Your answer here
 
-for i in range(1, 31):
+
+for i in range(1, 30):
     x *= i
 
 
